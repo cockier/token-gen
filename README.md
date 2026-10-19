@@ -1,5 +1,5 @@
 <div align="center">
-
+need help? dm @wrathiest on discord
 
 **Browser Automation Framework** — headless account provisioning with CAPTCHA solving and disposable email integration.
 
