@@ -172,3 +172,6 @@ Enable in `config.json`: `"use_proxy": true`
 <div align="center">
 <sub>built for researchers, testers, and automation engineers</sub>
 </div>
+
+
+`creds to kanishk for the base, was pretty ass but ive improved it drastically.`
