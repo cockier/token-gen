@@ -1,0 +1,29 @@
+{
+  "check_ratelimit": true,
+  "vpn_mode_delay": 1,
+  "notify": false,
+  "notification_icon": "data/pack.ico",
+  "browser": "microsoft",
+  "rw_key": "",
+  "nopecha_key": "",
+  "discord_pass": "cockierongithub!@@xdlol!free!12",
+  "global_name": "github @ cockier",
+  "dob_year_min": 1995,
+  "dob_year_max": 2002,
+  "number_attacher": false,
+  "delay_between_runs": 5,
+  "use_proxy": false,
+  "proxy_file": "proxies.txt",
+  "proxies": [],
+  "webhook_footer": "regret.world",
+  "webhook_username": "regret.world",
+  "join_server": false,
+  "humanizer": {
+    "enabled": true,
+    "avatar": true,
+    "display_name": true,
+    "bio": true,
+    "pronouns": true,
+    "hypesquad": true
+  }
+}
