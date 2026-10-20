@@ -1,6 +1,5 @@
 <div align="center">
-need help? dm @wrathiest on discord
-update at 100 stars ❤️
+`update at 100 stars ❤️`
 
 **Browser Automation Framework** — headless account provisioning with CAPTCHA solving and disposable email integration.
 
